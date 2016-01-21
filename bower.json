@@ -1,0 +1,20 @@
+{
+  "name": "mocha-learn",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "~1.4.4",
+    "semantic": "semantic-ui#~2.1.8"
+  }
+}

@@ -1,0 +1,8 @@
+    {
+      "a":{ "pwd_u":"1","role":2,"tel":"13700003462"},
+      "b":{ "pwd_u":"2","role":2,"tel":"13500003462" },
+      "c":{ "pwd_u":"3","role":2,"tel":"13300003462"},
+      "d":{ "pwd_s":"4","role":1,"service":"xi yi fu"},
+      "e":{ "pwd_s":"5","role":1,"service":"zuo fang" },
+      "f":{ "pwd_s":"6","role":1,"service":"bao jie"}
+    }
